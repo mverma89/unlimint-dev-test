@@ -10,7 +10,6 @@ b. There are following assumption made during the development.
         Order ID, amount, currency, comment
         1,100,USD,order payment
         2,123,EUR,order payment
-
     4. JSON order file content should be like below given sample file content
         [
             {"orderId":3, "amount":1.23, "currency": "USD", "comment": "order payment"},
